@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     packages=setuptools.find_packages(),
     url='https://github.com/lokesh-gundluru/MITS_AIMLTEAM.git',
-    license='MIT',
+    license='GPLv3',
     install_requires=[
 
          'numpy',
